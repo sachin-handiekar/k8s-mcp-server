@@ -29,6 +29,16 @@ kubectl get pods
 
 ---
 
+## Screenshots 
+
+### Get Pods
+
+<img width="534" height="919" alt="image" src="https://github.com/user-attachments/assets/3dc4b5ff-8b57-421e-9457-82679359a9a8" />
+
+### Run an nginx pod
+
+<img width="549" height="400" alt="image" src="https://github.com/user-attachments/assets/41e3ef69-931c-40cc-a79c-3b76849f3ba3" />
+
 ## Quick Start
 
 ### Build
